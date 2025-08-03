@@ -63,6 +63,6 @@ Key Focus Areas:
  
 
 ```markdown
-![Loan Default Dashboard](https://drive.google.com/file/d/1_YDmIQlZs1freQhKZkqgQ_sd3ygDU8-r/view?usp=drive_link)
+![Loan Default Dashboard](https://drive.google.com/file/d/1YO0j1tO7Y6f8czdSJvkBxUUtytn-UTed/view?usp=drive_link)
 
 
